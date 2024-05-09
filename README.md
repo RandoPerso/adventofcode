@@ -1,2 +1,2 @@
 # adventofcode
-This is a collection of my terrible Advent of Code solutions along with my inputs 
+This is a archive some of my terrible Advent of Code solutions along with my inputs.
